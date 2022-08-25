@@ -10,7 +10,7 @@ Feature: Account management
 
     Examples:
       | Firstname | Lastname | Email          | Password | ConfirmPassword |
-      | John      | James    | john@yahoo.com | Jaspa123 | Jaspa123        |
+      | John      | James    | john1@yahoo.com | Jaspa123 | Jaspa123        |
 
 
   
